@@ -8,3 +8,6 @@ venv/
 
 # ignorar Pasta Output
 Outputs/
+
+# ignorar base de dados SQlite
+viabilities.db
