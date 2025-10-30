@@ -1,0 +1,10 @@
+# Ignorar o arquivo config.py
+config.py
+# Ignorar o diretório __pycache__
+__pycache__/
+
+# Ignorar o ambiente virtual
+venv/
+
+# ignorar Pasta Output
+Outputs/
